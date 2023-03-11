@@ -2,3 +2,7 @@
 0xa0f941076ff96b628c329ebbddd1f9e8d3db10399037df01d3fe2ae869e1c24b
 
 https://eth-goerli.public.blastapi.io
+
+run using this 
+
+ts-node --esm src/index.ts   
