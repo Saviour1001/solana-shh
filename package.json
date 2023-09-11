@@ -12,15 +12,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@safe-global/safe-core-sdk": "^3.3.2",
-    "@safe-global/safe-core-sdk-types": "^1.9.0",
-    "@safe-global/safe-ethers-lib": "^1.9.2",
-    "@safe-global/safe-service-client": "^1.5.2",
+    "@elusiv/sdk": "^0.1.22",
+    "@noble/ed25519": "^2.0.0",
+    "@solana/web3.js": "^1.78.4",
+    "chalk": "^5.3.0",
     "dotenv": "^16.0.3",
-    "ethers": "5.7.2"
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.10"
   },
   "devDependencies": {
+    "@types/inquirer": "^9.0.3",
     "@types/node": "^18.15.0",
+    "os": "^0.1.2",
     "typescript": "^4.9.5"
   }
 }
